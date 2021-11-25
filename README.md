@@ -9,10 +9,13 @@ implementation.
 
 Explanation: 
 Agoright is like this:
+
 step 1: Constructing Height balance binary Tree.
 
 step 2 : Updateing leftCount and rightCount
+
         a) LeftCount : Number of nodes present in left sub tree.
+        
         b) RightCount : Number of nodes present in right sub tree.
         
 step3: search number of smaller elements present binary search tree and update smaller count accordingly.
