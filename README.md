@@ -26,5 +26,7 @@ TIME COMPLEXITY :::
 assumption let say k is number of distinct numbers on which operation is to preform.
 
 BUILDING OF HEIGHT BALACING TREE REQUIRED : O(K*(LonK))
+
 UPDATE LEFTCOUNT AND RIGHTCOUNT :           O(K)
+
 FOR EACH SEARCH SMALLER COUNT :             O(lonK)
