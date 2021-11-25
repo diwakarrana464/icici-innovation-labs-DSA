@@ -18,6 +18,8 @@ step 2 : Updateing leftCount and rightCount
         
         b) RightCount : Number of nodes present in right sub tree.
         
-step3: search number of smaller elements present binary search tree and update smaller count accordingly.
+step3: search number of smaller elements present in binary search tree and update smaller count accordingly.
 
 step 4: return smaller count.
+
+TIME COMPLEXITY :::
