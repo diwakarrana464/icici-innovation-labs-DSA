@@ -1,4 +1,4 @@
-# icici-innovation-labs
+# icici-innovation-labs DSA
 
 Question:: Paul has a set of unique numbers. He wants to store numbers in a binary tree such that 
 whenever a number is given, he can exactly tell how many numbers are less than the given 
