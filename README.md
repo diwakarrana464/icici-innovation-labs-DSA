@@ -23,3 +23,8 @@ step3: search number of smaller elements present in binary search tree and updat
 step 4: return smaller count.
 
 TIME COMPLEXITY :::
+assumption let say k is number of distinct numbers on which operation is to preform.
+
+BUILDING OF HEIGHT BALACING TREE REQUIRED : O(K*(LonK))
+UPDATE LEFTCOUNT AND RIGHTCOUNT :           O(K)
+FOR EACH SEARCH SMALLER COUNT :             O(lonK)
