@@ -29,4 +29,9 @@ BUILDING OF HEIGHT BALACING TREE REQUIRED : O(K*(LonK))
 
 UPDATE LEFTCOUNT AND RIGHTCOUNT :           O(K)
 
-FOR EACH SEARCH SMALLER COUNT :             O(lonK)
+FOR EACH SEARCH SMALLER COUNT :             O(logK)
+
+Overall timeComplexity is O(klogk + K + logK) = klogK
+
+SPACE COMPLEXITY::
+here we are using tree. we are not using any Auxiliary space but recursion is using recursive stack and its space complexity will be equal to O(logk);
